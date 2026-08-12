@@ -1,5 +1,10 @@
 # STM32H750VBT6 Development Board
 
+## Main MCU
+
+STM32H750VBT6 is probably an overkill for this project. But i used it anyway so i maybe use other pins if need to.
+Package: LQFP-100
+
 ## Power
 
 It can be powered by USB-C and will be with pins in future version. It has 2 power rails due to have 2 keep noise digital from analog. i could have used ferrite beads but i have personal beef with them. 
@@ -71,8 +76,4 @@ ABM8G-25.000MHZ-18-D2Y-T - 25 MHZ crystal used as the main high-speed clock for 
 
 ABS07-32.768KHZ-T - 32.768 kHz crystal used for low-frequency timing and RTC.
 
-## Main MCU
-
-STM32H750VBT6 is probably an overkill for this project. But i used it anyway so i maybe use other pins if need to.
-Package: LQFP-100
 
