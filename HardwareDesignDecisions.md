@@ -4,10 +4,10 @@
 
 It can be powered by USB-C and will be with pins in future version. It has 2 power rails due to have 2 keep noise digital from analog. i could have used ferrite beads but i have personal beef with them. 
 
-## Digital 3.3V LDO
+### Digital 3.3V LDO
   AP7361C 3.3V@1A is used for Digital
   
-## Analog 3.3V LDO
+### Analog 3.3V LDO
   TLV73333 3.3V@300mA is used for Analog parts
 
 ##   External Flash 
@@ -63,8 +63,16 @@ also both digital and analog +3v3 and +5v. ~couple of grounds:)
 
 ## OLED interface.
 
+SSD1306  is planned to use and have dedicated port in right side of the board.
 
+## Clocks
 
+ABM8G-25.000MHZ-18-D2Y-T - 25 MHZ crystal used as the main high-speed clock for the MCU
 
+ABS07-32.768KHZ-T - 32.768 kHz crystal used for low-frequency timing and RTC.
 
+## Main MCU
+
+STM32H750VBT6 is probably an overkill for this project. But i used it anyway so i maybe use other pins if need to.
+Package: LQFP-100
 
