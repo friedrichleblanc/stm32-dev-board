@@ -18,7 +18,7 @@ Package: LQFP-100
 
 ## Images
 
-<img src="Doc/STM32H750VBT6Pcb.png" width="500">       <img src="Doc/STM32H750VBT6BackPcb.png" width="500">
+<img src="Doc/STM32H750VBT6Pcb.png" width="500">    <img src="Doc/STM32H750VBT6BackPcb.png" width="500">
 
 
 
