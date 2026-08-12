@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Mahammad Mammadov\Documents\STM32H750VBT6 Dev board\STM32H750VBT6 Dev board\STM32H750VBT6 Dev Board\STM32H750VBT6 Pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm32h750vbt6 pcb-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm32h750vbt6 pcb-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
