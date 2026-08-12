@@ -2,7 +2,7 @@
 Custom 6-layer STM32H750 development board designed for embedded systems experimentation.
 
 ## Hardware Design Desicions
-# STM32H750VBT6 Development Board
+### STM32H750VBT6 Development Board
 
 ## Main MCU
 
