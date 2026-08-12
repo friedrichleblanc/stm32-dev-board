@@ -25,4 +25,46 @@ TPD1E10B06DPYT - is used for safety of USB 5V power trace
 
 #B1 and B2 is on pins PD8 and PD9 so you can add whatever function you want to those. Basically, RST button basically resets the board.
 
+## Stackup and Routing
+
+6 layer offers improved grounding, routing space, signal integrity. Orthogonal routing strategy was partially applied.
+
+Signal Traces/Power
+\
+GND Copper Pour
+\
+Signal Traces/Power
+\
+Signal Traces/Power
+\
+GND Copper Pour
+\
+Signal Traces/Power
+
+## SWD Debugging and Programming
+
+it has 5 pins :
+
+BOOT0 / +3V3 / GND / PA13 / PA14
+
+## Exposed pins
+
+PA: PA0, PA1, PA2, PA3, PA8, PA9, PA10, PA15
+
+PB: PB0, PB1, PB10, PB11, PB12, PB13, PB14, PB15
+
+PC: PC0, PC1, PC4, PC5, PC6, PC7
+
+PD: PD0, PD1, PD2, PD3, PD4, PD5, PD6, PD7, PD8, PD9, PD10, PD14, PD15
+
+PE: PE0, PE1, PE2, PE3, PE4, PE5, PE6, PE7, PE9, PE10, PE11, PE12, PE13, PE14, PE1
+
+also both digital and analog +3v3 and +5v. ~couple of grounds:)
+
+## OLED interface.
+
+
+
+
+
 
