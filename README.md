@@ -4,7 +4,7 @@ Custom 6-layer STM32H750 development board designed for embedded systems experim
 ## Hardware Design Desicions
 ### STM32H750VBT6 Development Board
 
-## Main MCU
+### Main MCU
 
 STM32H750VBT6 is probably an overkill for this project. But i used it anyway so i maybe use other pins if need to.
 Package: LQFP-100
