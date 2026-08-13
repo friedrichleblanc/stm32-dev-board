@@ -9,7 +9,7 @@
 STM32H750VBT6 is probably an overkill for this project. But i used it anyway so i maybe use other pins if need to.
 Package: LQFP-100
 
-[Click for more ](docs/HardwareDesignDecisions.md)
+[Click for more ](HardwareDesignDecisions.md)
 
 ## Schematics 
 
