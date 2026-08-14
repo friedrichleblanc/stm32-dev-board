@@ -13,7 +13,7 @@ Package: LQFP-100
 
 ## Schematics 
 
-[Schematics](main/docs/STM32H750VBT6schematics.pdf)
+[Schematics](Doc/STM32H750VBT6schematics.pdf)
 
 
 ## Images
